@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tuplas,operador ternario e desconstrução de um objeto com C#/1.0.0": {
+        "runtime": {
+          "Tuplas,operador ternario e desconstrução de um objeto com C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tuplas,operador ternario e desconstrução de um objeto com C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\bin\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.exe
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\bin\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.deps.json
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\bin\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.runtimeconfig.json
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\bin\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.dll
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\bin\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.pdb
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\obj\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\obj\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\obj\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.AssemblyInfo.cs
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\obj\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\obj\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.dll
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\obj\Debug\net8.0\refint\Tuplas,operador ternario e desconstrução de um objeto com C#.dll
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\obj\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.pdb
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\obj\Debug\net8.0\Tuplas,operador ternario e desconstrução de um objeto com C#.genruntimeconfig.cache
+C:\Users\leopd\Desktop\Atividades DIO\Tuplas,operador ternario e desconstrução de um objeto com C#\obj\Debug\net8.0\ref\Tuplas,operador ternario e desconstrução de um objeto com C#.dll
